@@ -1,7 +1,7 @@
 ---
 title: Text and Typography
 author: Dominik Lenhardt
-date: 2021-08-06 22:33:00 +0100
+date: 2021-08-06 21:35:00 +0100
 categories: [Blogging, Tutorial]
 tags: [writing,text]
 math: true
