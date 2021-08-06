@@ -1,9 +1,9 @@
 ---
-title: Text and Typography Test
+title: Text and Typography
 author: OnkelDOm
-date: 2021-08-06 11:33:00 +0800
-categories: [Blogging, Demo, Test]
-tags: [typography,doener]
+date: 2021-08-06 22:33:00 +0100
+categories: [Blogging, Markdown, Text]
+tags: [typography,text]
 math: true
 mermaid: true
 ---
