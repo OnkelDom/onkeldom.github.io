@@ -1,11 +1,12 @@
 ---
 title: Text and Typography
-author: OnkelDOm
+author: Dominik Lenhardt
 date: 2021-08-06 22:33:00 +0100
-categories: [Blogging, Markdown, Text]
-tags: [typography,text]
+categories: [Blogging, Tutorial]
+tags: [writing,text]
 math: true
 mermaid: true
+toc: true
 ---
 
 This post is to show Markdown syntax rendering on [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork), you can also use it as an example of writing. Now, let's start looking at text and typography.

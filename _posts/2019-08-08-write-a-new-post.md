@@ -1,9 +1,10 @@
 ---
 title: Writing a New Post
-author: Cotes Chung
-date: 2019-08-08 14:10:00 +0800
+author: Dominik Lenhardt
+date: 2019-08-08 14:10:00 +0100
 categories: [Blogging, Tutorial]
-tags: [writing]
+tags: [writing,post]
+toc: true
 ---
 
 ## Naming and Path
