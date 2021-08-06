@@ -24,10 +24,10 @@ timezone: Europe/Berlin
 
 title: OnkelDom's Blog                          # the main title
 
-tagline: Random stuff from my naive world     # it will display as the sub-title
+tagline: Random stuff from my artless world     # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  Random stuff from my naive world
+  Random stuff from my artless world
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://onkeldom.github.io'
