@@ -31,4 +31,4 @@ Hier jetzt erstmal der Aufbau meines Heimnetzwerks
 
 Von den Access Point habe ich zwei im Einsatz, da unsere Wohnung in einer U-Form ist und durch das Stahlbeton treppenhaus einfach überhaupt kein Signal kommt.
 
-![Unify Homelab](../assets/img/upload/unify_homelab01.png)
+![Unify Homelab](/assets/img/upload/unify_homelab01.png)
