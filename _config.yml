@@ -1,12 +1,12 @@
 # Site settings
-title: Dominik Lenhardt IT-Services
+title: Dominik Lenhardt
 description: Effiziente IT-Lösungen, flexibel für Sie gestaltet – Ihr Experte für System- und Cloud-Administration
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 url: "onkeldom.github.io"
 
 # User settings
 username: Dominik Lenhardt
-email: office@lenhardt.cc
+email: dominik.lenhardt@outlook.de
 twitter_username: OnkelDominik
 github_username:  OnkelDom
 linkedin_username: dominik-lenhardt-086645226
