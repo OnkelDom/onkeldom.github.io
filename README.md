@@ -11,7 +11,7 @@ The Theme features:
 - BrowserSync
 - Font Awesome and Devicon icons
 - Google Analytics
-- Info Customization
+- Info Customization blub
 
 ## Basic Setup
 
